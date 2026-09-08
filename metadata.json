@@ -1,0 +1,6 @@
+{
+  "name": "Startup Loading Screen",
+  "description": "Tampilan startup loading screen dinamis bergaya EA Sports FC dengan aurora mesh, animasi logo kinetik, progress bar, dan teks yang dapat dikustomisasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
